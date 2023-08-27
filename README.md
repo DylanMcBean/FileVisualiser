@@ -1,4 +1,12 @@
 # FileVisualiser
+
+## How to Use
+
+I have just uploaded the cpp files, so if you wish to use this you will need to build it on your own
+
+
+## Info
+
 Just a tool to visualise different filetypes to get a better understanding of how they are structured
 
 although some are harder to distinguish between than others. most file types have a unique structure to them that will make them standout from different filetypes even if only a little
